@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Kasra Khaksar</h1>
+<h1 align="center">Kasra Khaksar</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
 ---
@@ -13,7 +13,10 @@
 
 ---
 
+
 ### 🛠️ Skills
+
+
 
 **Backend**  
 <p>
@@ -21,6 +24,8 @@
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Django_REST_Framework-009688?logo=django&logoColor=white&style=for-the-badge" />
 </p>
+
+
 
 **Frontend**  
 <p>
@@ -31,12 +36,15 @@
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
 </p>
 
+
+
 **Databases**  
 <p>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
 </p>
+
 
 **DevOps**  
 <p>
@@ -47,9 +55,13 @@
 
 ---
 
+
 ### 📦 My PyPI Package
 
-I have published a Python package on PyPI. This Is MySQL Package That You Can Save DataFrame As Table, Partition, Update , Primarykey And Unique In MySQL ;
+I have published a Python package on PyPI. This Is MySQL Package That You Can Save DataFrame As Table, Partition, Update , Primarykey And Unique In MySQL .
+[![PyPI](https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=for-the-badge)](https://pypi.org/project/mysqlSaver/)
+
+
 You can check it out and install it using:
 
 ```bash
