@@ -5,11 +5,8 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Experienced in backend development with Python, Django, and Django REST Framework.
-- 🎨 Skilled in frontend technologies including Vue.js, HTML, CSS, JavaScript, and jQuery.
-- 🗄️ Comfortable working with databases such as MySQL, MongoDB, and SQLite.
-- 🚀 Familiar with DevOps tools like Git, GitLab, and GitHub.
-- 🌱 Always eager to learn and improve my skills in full-stack development.
+- 💻 I'm a dedicated full-stack developer skilled in backend and frontend development, working comfortably with various databases and familiar with essential DevOps tools.
+- 🌱 I enjoy building efficient and scalable applications and continuously improving my skills.
 
 ---
 
@@ -30,7 +27,6 @@
 **Frontend**  
 <p>
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
@@ -66,7 +62,7 @@ I have published a Python package on PyPI. This Is MySQL Package That You Can Sa
 </p>
 
 
-You can check it out and install it using:
+### 📫 How to reach me
 
-```bash
-pip install mysqlSaver
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kasrakhaksar/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ksra13khaksar@gmail.com)  
