@@ -52,7 +52,7 @@
 ---
 
 
-### 📦 My PyPI Package
+### 📦 My Python Package
 
 I have published a Python package on PyPI. A package that allows saving a DataFrame as a table with support for updates, primary keys and etc. constraints.
 <p>
