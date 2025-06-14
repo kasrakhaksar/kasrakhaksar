@@ -54,7 +54,7 @@
 
 ### 📦 My PyPI Package
 
-I have published a Python package on PyPI. This Is MySQL Package That You Can Save DataFrame As Table, Partition, Update , Primarykey And Unique In MySQL.
+I have published a Python package on PyPI. A package that allows saving a DataFrame as a table with support for updates, primary keys and etc. constraints.
 <p>
   <a href="https://pypi.org/project/mysqlSaver/">
     <img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=for-the-badge" alt="PyPI Package" />
