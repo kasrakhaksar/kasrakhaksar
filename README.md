@@ -1,5 +1,4 @@
-<h1 align="center">Kasra Khaksar</h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<h1>Kasra Khaksar</h1><h3> - A Full-Stack Developer</h3>
 
 ---
 
