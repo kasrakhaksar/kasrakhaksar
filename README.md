@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I'm a dedicated full-stack developer skilled in backend and frontend development, working comfortably with various databases and familiar with essential DevOps tools.
+- 💻 I'm a dedicated full-stack developer skilled in both backend and frontend development. I work comfortably with various databases, am familiar with essential DevOps tools, and have hands-on experience in data crawling and analysis.
 - 🌱 I enjoy building efficient and scalable applications and continuously improving my skills.
 
 ---
@@ -21,6 +21,18 @@
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Django_REST_Framework-009688?logo=django&logoColor=white&style=for-the-badge" />
 </p>
+
+
+
+
+**Data Analysis**
+<p>
+  <img src="https://img.shields.io/badge/-BeautifulSoup-4B0082?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" />
+</p>
+
 
 
 
