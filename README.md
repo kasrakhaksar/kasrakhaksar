@@ -84,6 +84,8 @@ A package that allows transferring data between different databases.
   </a>
 </p>
 
+---
+
 ### 📫 How to reach me
 
 <p>
