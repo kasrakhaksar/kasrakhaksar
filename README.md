@@ -68,13 +68,21 @@
 
 ### 📦 My Python Package
 
-I have published a Python package on PyPI. A package that allows saving a DataFrame as a table with support for updates, Unique , primarykeys and etc. constraints.
+A package that allows saving a DataFrame as a table with support for updates, Unique , primarykeys and etc. constraints.
 <p>
   <a href="https://pypi.org/project/mysqlSaver/">
     <img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=for-the-badge" alt="PyPI Package" />
   </a>
 </p>
 
+---
+
+A package that allows transferring data between different databases.
+<p>
+  <a href="https://pypi.org/project/py-auto-migrate/">
+    <img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=for-the-badge" alt="PyPI Package" />
+  </a>
+</p>
 
 ### 📫 How to reach me
 
