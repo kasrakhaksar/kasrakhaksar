@@ -66,7 +66,7 @@
 ---
 
 
-### 📦 My Python Package
+### 📦 My Python Packages
 
 A package that allows saving a DataFrame as a table with support for updates, Unique , primarykeys and etc. constraints.
 <p>
@@ -75,7 +75,6 @@ A package that allows saving a DataFrame as a table with support for updates, Un
   </a>
 </p>
 
----
 
 A package that allows transferring data between different databases.
 <p>
