@@ -72,7 +72,7 @@
 
 A powerful package that allows transferring data, tables, and datasets between different databases.
 <p>
-  <a href="https://pypi.org/project/py-auto-migrate/">
+  <a target="_blank" href="https://pypi.org/project/py-auto-migrate/">
     <img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=for-the-badge" alt="PyPI Package" />
   </a>
 </p>
@@ -80,7 +80,7 @@ A powerful package that allows transferring data, tables, and datasets between d
 
 A package that allows saving a DataFrame as a table with support for updates, Unique , primarykeys and etc. constraints.
 <p>
-  <a href="https://pypi.org/project/mysqlSaver/">
+  <a target="_blank" href="https://pypi.org/project/mysqlSaver/">
     <img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=for-the-badge" alt="PyPI Package" />
   </a>
 </p>
@@ -91,7 +91,7 @@ A package that allows saving a DataFrame as a table with support for updates, Un
 ### 📫 How to reach me
 
 <p>
-  <a href="https://www.linkedin.com/in/kasrakhaksar/" target="_blank" rel="noopener noreferrer">
+  <a target="_blank" href="https://www.linkedin.com/in/kasrakhaksar/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:ksra13khaksar@gmail.com">
