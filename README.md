@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-BeautifulSoup-4B0082?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" />
 </p>
 
