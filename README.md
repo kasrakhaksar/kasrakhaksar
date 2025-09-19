@@ -25,7 +25,7 @@
 
 
 
-**Data Analysis**
+**Data Analyst**
 <p>
   <img src="https://img.shields.io/badge/-Data_Crawling-DB2C1F?logo=scrapy&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-BeautifulSoup-4B0082?logo=python&logoColor=white&style=for-the-badge" />
