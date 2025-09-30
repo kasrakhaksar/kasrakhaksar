@@ -93,16 +93,13 @@ A package that allows saving a DataFrame as a table with support for updates, Un
 
 ### 📫 How to reach me
 
-<div>
-  <p>
-    <a target="_blank" href="https://www.linkedin.com/in/kasrakhaksar/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-    </a>
-  </p>
+<p>
+  <a href="mailto:ksra13khaksar@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  </a>
   
-  <p>
-    <a href="mailto:ksra13khaksar@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
-    </a>
-  </p>
-</div>
+  <a target="_blank" href="https://www.linkedin.com/in/kasrakhaksar/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+
+</p>
