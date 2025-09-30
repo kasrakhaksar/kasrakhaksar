@@ -30,8 +30,10 @@
   <img src="https://img.shields.io/badge/-Data_Crawling-DB2C1F?logo=scrapy&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-BeautifulSoup-4B0082?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Polars-4B9CD3?logo=polars&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" />
 </p>
 
