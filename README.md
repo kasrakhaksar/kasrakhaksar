@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Google_BigQuery-669DF6?logo=googlecloud&logoColor=white&style=for-the-badge" />
 </p>
-ح
+
 
 
 **Frontend**  
