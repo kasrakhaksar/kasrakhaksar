@@ -45,6 +45,14 @@
 
 
 
+**Cloud & Big Data**
+<p> 
+  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Google_BigQuery-669DF6?logo=googlecloud&logoColor=white&style=for-the-badge" />
+</p>
+ح
+
+
 **Frontend**  
 <p>
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
