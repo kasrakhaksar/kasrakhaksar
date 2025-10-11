@@ -19,7 +19,7 @@
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Django_REST_Framework-009688?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Django_REST_Framework-FFA500?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
 </p>
 
