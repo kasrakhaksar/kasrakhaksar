@@ -109,7 +109,7 @@ A package that allows saving a DataFrame as a table with support for updates, Un
 ### 📫 How to reach me
 
 <p>
-  <a href="mailto:ksra13khaksar@gmail.com">
+  <a href="mailto:kasrakhaksar17@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
   
