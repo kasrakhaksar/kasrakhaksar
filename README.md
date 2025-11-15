@@ -110,11 +110,11 @@ A package that allows saving a DataFrame as a table with support for updates, Un
 
 <p>
   <a href="mailto:kasrakhaksar17@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
-  <a target="_blank" href="https://www.linkedin.com/in/kasrakhaksar/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  <a target="_blank" href="https://www.linkedin.com/in/kasrakhaksar/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
 </p>
