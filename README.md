@@ -86,7 +86,7 @@
 ---
 
 
-### 📦 My Python Packages
+### My Python Packages
 
 A powerful package that allows transferring data, tables, and datasets between different databases.
 <p>
@@ -106,7 +106,7 @@ A package that allows saving a DataFrame as a table with support for updates, Un
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 
 <p>
   <a href="mailto:kasrakhaksar17@gmail.com">
