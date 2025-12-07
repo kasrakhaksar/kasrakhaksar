@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 💻 I'm a dedicated full-stack developer skilled in both backend and frontend development. I work comfortably with various databases, am familiar with essential DevOps tools, and have hands-on experience in data crawling and analysis.
 - 🌱 I enjoy building efficient and scalable applications and continuously improving my skills.
@@ -11,7 +11,7 @@
 ---
 
 
-### 🛠️ Skills
+### Skills
 
 
 
