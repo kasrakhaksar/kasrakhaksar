@@ -37,19 +37,11 @@
 
 
 
-
 **Web Scraping**
 <p>
   <img src="https://img.shields.io/badge/-Data_Crawling-DB2C1F?logo=scrapy&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-BeautifulSoup-4B0082?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
-</p>
-
-
-
-**Cloud & Big Data**
-<p> 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white&color=F78F1E" alt="AWS Badge" />
 </p>
 
 
@@ -74,9 +66,9 @@
   <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
 </p>
 
-
-**DevOps**
+**Cloud And DevOps**
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white&color=F78F1E" alt="AWS Badge" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
@@ -92,7 +84,7 @@
 A powerful package that allows transferring data, tables, and datasets between different databases.
 <p>
   <a target="_blank" href="https://pypi.org/project/py-auto-migrate/">
-    <img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=for-the-badge" alt="PyPI Package" />
+    <img src="https://img.shields.io/badge/PyPI-Package-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
   </a>
 </p>
 
@@ -100,7 +92,7 @@ A powerful package that allows transferring data, tables, and datasets between d
 A package that allows saving a DataFrame as a table with support for updates, Unique , primarykeys and etc. constraints.
 <p>
   <a target="_blank" href="https://pypi.org/project/mysqlSaver/">
-    <img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=for-the-badge" alt="PyPI Package" />
+    <img src="https://img.shields.io/badge/PyPI-Package-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
   </a>
 </p>
 
@@ -109,13 +101,11 @@ A package that allows saving a DataFrame as a table with support for updates, Un
 
 ### How to reach me
 
-<p>
+<p >
   <a href="mailto:kasrakhaksar17@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  
-  <a target="_blank" href="https://www.linkedin.com/in/kasrakhaksar/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/kasrakhaksar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
 </p>
