@@ -79,7 +79,7 @@
 ---
 
 
-### My Python Packages
+### My Python Package
 
 A powerful package that allows transferring data, tables, and datasets between different databases.
 <p>
@@ -87,15 +87,6 @@ A powerful package that allows transferring data, tables, and datasets between d
     <img src="https://img.shields.io/badge/PyPI-Package-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
   </a>
 </p>
-
-
-A package that allows saving a DataFrame as a table with support for updates, Unique , primarykeys and etc. constraints.
-<p>
-  <a target="_blank" href="https://pypi.org/project/mysqlSaver/">
-    <img src="https://img.shields.io/badge/PyPI-Package-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
-  </a>
-</p>
-
 
 ---
 
