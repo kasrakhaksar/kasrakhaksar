@@ -79,7 +79,7 @@
 ---
 
 
-### My Python Package
+### Python Package
 
 A powerful package that allows transferring data, tables, and datasets between different databases.
 <p>
