@@ -74,18 +74,6 @@
 
 ---
 
-
-### Python Package
-
-A powerful package that allows transferring data, tables, and datasets between different databases.
-<p>
-  <a target="_blank" href="https://pypi.org/project/py-auto-migrate/">
-    <img src="https://img.shields.io/badge/PyPI-Package-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### How to reach me
 
 <p >
