@@ -24,21 +24,22 @@
 
 
 
-**Data Analyst**
+**Data Engineering**
 <p>
-  <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-ETL_Pipeline-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Data_Warehouse-336791?style=for-the-badge" />
 </p>
 
 
 
-**Web Scraping**
+
+**Data Analyst**
 <p>
-  <img src="https://img.shields.io/badge/-Data_Crawling-DB2C1F?logo=scrapy&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-BeautifulSoup-4B0082?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" />
 </p>
 
 
@@ -60,6 +61,7 @@
   <img src="https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
 </p>
+
 
 **Cloud And DevOps**
 <p>
